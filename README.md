@@ -4,7 +4,7 @@ Proyecto realizado con **React** y **Vite**. Utiliza **Poke API**
 
 ## Funciones Principales
 
-- ** React Hooks (useState, useEffect, useContext)**
+- **React Hooks (useState, useEffect, useContext)**
 - **Context API**
 - **React Router Dom**
 - **Rutas Anidadas y params**
