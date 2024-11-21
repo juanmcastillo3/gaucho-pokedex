@@ -34,4 +34,4 @@ npm run dev
 - **react-dom**
 - **react-router-dom**
 
-¡Explora, experimenta y disfruta de la experiencia de JabarScript!
+¡Sumergete a la pokedex y al mundo de los pokémons!
